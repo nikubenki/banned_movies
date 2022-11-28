@@ -2,6 +2,7 @@
 ##### 仅收录自己有兴趣的
 电影|年代|导演|IMDB
 ---|---|---|---
+西藏七年|1997|让-雅克·阿诺|[Seven Years in Tibet](https://www.imdb.com/title/tt0120102/)
 出租车司机|2017|张勋|[A Taxi Driver](https://www.imdb.com/title/tt6878038/)
 凛冬烈火：乌克兰为自由而战|2016|叶夫根尼·艾菲尼夫斯基|[Winter on Fire: Ukraine's Fight for Freedom](https://www.imdb.com/title/tt4908644/)
 天注定|2013|贾樟柯|[A Touch of Sin](https://www.imdb.com/title/tt2852400/)
